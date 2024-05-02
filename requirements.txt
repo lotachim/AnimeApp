@@ -45,3 +45,5 @@ urllib3
 wcwidth
 werkzeug
 wheel
+wordcloud
+
