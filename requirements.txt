@@ -5,7 +5,7 @@ aioitertools
 aiosignal 
 alabaster 
 altair 
-anaconda-anon-usage 
+anaconda-anon-usage == 0.4.3
 anaconda-catalogs 
 anaconda-client 
 anaconda-cloud-auth 
