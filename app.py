@@ -6,6 +6,7 @@ import page3
 import wordcloudpage
 import plotly.express as px
 import dash_bootstrap_components as dbc
+from flask import Flask
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
